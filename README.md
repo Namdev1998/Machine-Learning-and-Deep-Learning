@@ -1,2 +1,2 @@
 # Machine-Learning-and-Deep-Learning
-Projects in Machine Learning ,Deep Learning and Statistics
+Clustering Algorithm-Mining the Banking customer behaviour using clustering.
